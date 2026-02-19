@@ -3,3 +3,4 @@
 /Classification.tar
 /Detection.tar
 /Detection
+/backend/models/best_resnet50.pt
